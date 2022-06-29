@@ -2,3 +2,5 @@
     pass
 def login oogle():
     pass
+def login yatra():
+    pass
