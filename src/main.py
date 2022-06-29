@@ -1,9 +1,2 @@
-hi 
-
-hello
-
-
-def login()
-pass
- def iswiproemployee():
-     pass:
+ def login facebook():
+    pass
